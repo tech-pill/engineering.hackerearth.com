@@ -5,6 +5,7 @@ description: "This is one of the coolest and important thing we recently built a
 What's so cool about it? Just have a little patience, you will soon..."
 category: 
 tags: [Continuous Deployment System, HackerEarth, Fabric, RabbitMQ, Django]
+canonical: blog.hackerearth.com/2013/08/continuous-deployment-system.html
 ---
 {% include JB/setup %}
 
